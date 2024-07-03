@@ -1,4 +1,4 @@
-name: dev
+name: openai_dev
 channels:
  - defaults
 dependencies:
